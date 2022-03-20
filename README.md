@@ -24,13 +24,15 @@
 4. What unique insight do you have about where the world is headed, and what does your company look like in 10 yrs if all goes well?
 - In 10 years, our company could be the epicenter of peer-revieved pubslish works in academia. 
 
-5. What's your "go to market" strategy how do you plan to acquire or grow your users/customers, or how fast are you already growing?
-- Conferences. American Library Association, Music LA, Special LA, state Library Associations
+5. What's your "go to market" strategy how do you plan to acquire or grow your users/customers, or how fast are you already growing? 
+- Library Conferences are the central hub for writers & researchers. Having attended several 
+- . American Library Association, Music LA, Special LA, state Library Associations
 - I am an Information Professional with a Masters of Science, Infomation Science & 10+ years of Information Science (public & academic libraries) expereince with connections within academic libraries such as Harvard University, Delaware State, University of Tennessee, and other accredited library association. I regularly attend library conferences and present research. Spreading the word about a platform that could pay researchers for thier work in academia would catch fire rather quickly. 
 6. Do you have revenue, users or customers?
-
 7. How do you measure success?
-
 8. If N/A, what metric are you going to use for measuring growth, and why is that a good metric?
-
 9. Have you raised any capital & from who or gone through any incubator programs already?
+
+**Requirements**
+- build MVP until June 30 demo day & unlock more funding
+- How to Do Above: https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/
