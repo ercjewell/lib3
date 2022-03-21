@@ -36,3 +36,25 @@
 **Requirements**
 - build MVP until June 30 demo day & unlock more funding
 - How to Do Above: https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/
+
+
+- who is my intended authors, how i can get specific 
+- WHo is purducing books  
+YA vs. Adult   
+Fiction   
+ENtrpenuors   
+Educators (  
+
+
+prestegious jounal (stem)
+how to get them to publish? going after the researchers who are againts the system? or researchers 
+
+provide the platform and help authors fugure out how to get their stuff out digitally 
+groundwork research...we'll help you offrap it jsut to get it out. the funds can go towards you or your organization. 
+archives and publishing, profit for auhors, profit for organization they work for, and blockchain 
+do theses tories have value? & who do these stories have value to
+
+target organizations? or target the author?
+so if you think about x you think about lib3
+
+book museum?
