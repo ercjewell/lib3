@@ -28,8 +28,6 @@ Blockchain is still in its infancy stages and we are early. We understand that t
 - https://www.nycmedialab.org/recent-projects/nft-and-blockchain
 - https://nftpubliclibrary.org/
 
-****L!Bw3b202k
-
 - who is my intended authors, how i can get specific 
 - WHo is purducing books  
 YA vs. Adult   
