@@ -1,5 +1,5 @@
 # libweb3
-**Proposal: Web3 Library**
+**Proposal: Web3 Publishing Co. & Marketplace**
 - Centered around writers and academics that want to publish their work and recieve compensation. This would create a platform for writeres and academics to generate written content and make profits via crypto/coin, if they so choose. 
 - A marketplace for literature but also pairing as a publishing company and offical library vendor for when ALA & other academic/public libraries want to goet on board with Blockchain and NFTs.
 - Eventually, create the library in the Metaverse that digitally houses all collections 
